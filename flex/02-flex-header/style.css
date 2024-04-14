@@ -12,7 +12,7 @@
 }
 
 .logo {
-  margin: .2em;
+  margin: 0.2em;
   margin-left: 3em;
   margin-right: 3em;
   font-size: 48px;
@@ -29,7 +29,6 @@ ul {
   display: flex;
   flex-direction: row;
   gap: 15px;
-
 }
 
 a {
