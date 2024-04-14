@@ -1,3 +1,11 @@
+* {
+  /* remove this stuff when finished */
+  outline: 2px solid red;
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 10px;
+}
+
 body {
   font-family: "Courier New", Courier, monospace;
 }
@@ -10,6 +18,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
 
 /* do not edit this footer */
