@@ -1,9 +1,9 @@
 * {
   /* remove this stuff when finished */
   outline: 2px solid red;
-  box-sizing: border-box;
   margin: 10px;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 body {
