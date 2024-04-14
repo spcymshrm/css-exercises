@@ -19,6 +19,12 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 52px;
+  width: 200px;
+}
+
+div.text {
+  text-align: center;
 }
 
 img {
@@ -30,6 +36,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin: 32px;
 }
 
 /* do not edit this footer */
