@@ -12,6 +12,7 @@ body {
 
 .content {
   display: flex;
+  justify-content: center;
 }
 
 .one, .two, .three, .four {
